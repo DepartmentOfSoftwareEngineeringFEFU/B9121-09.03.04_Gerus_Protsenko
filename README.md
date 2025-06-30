@@ -48,7 +48,7 @@ cd [название проекта]
 
 pip install -r requirements.txt
 
-frontend(в другом терминале):
+## frontend(в другом терминале):
 
 npm install
 
